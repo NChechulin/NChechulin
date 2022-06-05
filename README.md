@@ -37,4 +37,6 @@ Here are some ideas to get you started:
 
 ## Coding stats
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=NChechulin&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nchechulin&show_icons=true&theme=radical&count_private=true)
+
+![Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=NChechulin&api_domain=wakapi.dev&custom_title=NChechulin%27s%20Coding%20Stats&theme=radical&show_icons=true&layout=compact)
