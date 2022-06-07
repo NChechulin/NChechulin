@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nchechulin&show_icons=true&theme=radical&count_private=true)
 
-![Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=NChechulin&api_domain=wakapi.dev&custom_title=NChechulin%27s%20Coding%20Stats&theme=radical&show_icons=true&layout=compact)
+![Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=NChechulin&api_domain=wakapi.dev&custom_title=NChechulin%27s%20Weekly%20Coding%20Stats&theme=radical&show_icons=true&layout=compact)
