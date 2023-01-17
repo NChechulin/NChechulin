@@ -1,10 +1,5 @@
 # Hi there 👋
 
-## Work
-
-Currently, I am looking for a summer internship (possibly, a remote one) in ML / Python backend.
-Read more in [my CV](https://nchechulin.github.io/cv.pdf).
-
 ## Other info
 
 <!-- - 🔭 I’m currently working on ... -->
