@@ -8,7 +8,8 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me:
-  - Telegram: @nchechulin
+  - LinkedIn:  [NChechulin](https://www.linkedin.com/in/nchechulin/)
+  - Telegram: [@nchechulin](https://t.me/nchechulin)
   - Email: nchechulin@aol.com
   - Phone (ru): +7(925)356-71-20
 <!-- - 😄 Pronouns: ... -->
