@@ -8,6 +8,9 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me:
+  - Resume:
+    - [in English](https://nchechulin.github.io/cv.pdf)
+    - [на русском](https://nchechulin.github.io/cv_ru.pdf)
   - LinkedIn:  [NChechulin](https://www.linkedin.com/in/nchechulin/)
   - Telegram: [@nchechulin](https://t.me/nchechulin)
   - Email: nchechulin@aol.com
@@ -31,6 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ## Coding stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nchechulin&show_icons=true&theme=radical&count_private=true)
@@ -38,3 +42,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=NChechulin&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=NChechulin&api_domain=wakapi.dev&custom_title=NChechulin%27s%20Weekly%20Coding%20Stats&theme=radical&show_icons=true&layout=compact)
+-->
+
