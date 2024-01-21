@@ -11,7 +11,7 @@
   - [на русском](https://nchechulin.github.io/cv_ru.pdf)
 - LinkedIn:  [NChechulin](https://www.linkedin.com/in/nchechulin/)
 - Telegram: [@nchechulin](https://t.me/nchechulin)
-- Email: nchechulin@aol.com
+- Email: nchechulin.work@gmail.com
 - Phone (ru): +7(925)356-71-20
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
