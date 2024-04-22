@@ -1,14 +1,13 @@
 # Nikolay Chechulin
 
+Quantitative Trader in HFT
+
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning Rust and Graph Neural Networks -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 ## How to reach me
-- Resume:
-  - [in English](https://nchechulin.github.io/cv.pdf)
-  - [на русском](https://nchechulin.github.io/cv_ru.pdf)
 - LinkedIn:  [NChechulin](https://www.linkedin.com/in/nchechulin/)
 - Telegram: [@nchechulin](https://t.me/nchechulin)
 - Email: nchechulin.work@gmail.com
