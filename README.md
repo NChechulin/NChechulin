@@ -1,6 +1,6 @@
 # Nikolay Chechulin
 
-Quantitative Trader in HFT
+Quantitative Researcher & Trader in HFT
 
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning Rust and Graph Neural Networks -->
