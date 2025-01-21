@@ -11,7 +11,6 @@ Quantitative Researcher & Trader in HFT
 - LinkedIn:  [NChechulin](https://www.linkedin.com/in/nchechulin/)
 - Telegram: [@nchechulin](https://t.me/nchechulin)
 - Email (for work stuff): nchechulin.work@gmail.com
-- Phone (ru): +7(925)356-71-20 (please don't call me without prior notice)
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
